@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "GetFavIcons"
+version = "0.1.0"
+description = "Get Favicons to sites"
+authors = ["Douglas Maciel d'Auriol Souza <ddauriol@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+favicon = "^0.7.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
