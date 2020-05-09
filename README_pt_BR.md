@@ -35,7 +35,7 @@ Uma lista com curadoria de recursos de design gratuito e ui para desenvolvedores
  - Angular
  - Svelte
   
-## Extenção para Firefox
+## Extensão para Firefox
 Rápida, OffLine e direta.
   
 <p align="center">
@@ -46,7 +46,7 @@ Rápida, OffLine e direta.
 </p>
   
 ## Por Fazer:
-- [ ] Extenção para Chrome
+- [ ] Extensão para Chrome
 - [ ] Api
 - [ ] Mais categorias
 - [ ] Inserir sistema de favoritos
