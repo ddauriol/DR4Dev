@@ -6,14 +6,16 @@ const classLogoInit = document.querySelector(".logo-init");
 const searchForm = document.getElementById("search_form");
 
 /*global browser*/
-const firefox = browser.i18n;
+const Browser = browser.i18n;
+const locale = Browser.getMessage("langue");
 
 let jsonData;
 
 function loadJSON(callback) {
   var xobj = new XMLHttpRequest();
   xobj.overrideMimeType("application/json");
-  xobj.open("GET", "./json/db.json", true);
+  let jsonFile = `./json/db_${locale}.json`;
+  xobj.open("GET", jsonFile, true);
   xobj.onreadystatechange = function () {
     if (xobj.readyState == 4 && xobj.status == "200") {
       callback(xobj.responseText);
@@ -76,7 +78,7 @@ function renderCards(data) {
           </div>
         </div>
         <div class="card-footer card-footer-white text-center">
-          <a href="${value["url"]}" target="_blank" class="btn btn-green w-75 oval-flat text-uppercase">
+          <a href="${value["url"]}" target="_blank" class="btn btn-green w-75 btn-oval text-uppercase">
             Open
           </a>
         </div>
@@ -126,7 +128,7 @@ function showTags() {
     "IDE Cloud",
     "Langues",
     "Style guide",
-    "Charges",
+    "Challenge",
     "Network",
     "Study",
     "Hosting",
@@ -150,9 +152,8 @@ function showTags() {
 }
 
 function translaterPage() {
-  btSearch.innerHTML = firefox.getMessage("btn_search");
-  inputSearch.placeholder = firefox.getMessage("input_search");
-  let locale = firefox.getMessage("langue");
+  btSearch.innerHTML = Browser.getMessage("btn_search");
+  inputSearch.placeholder = Browser.getMessage("input_search");
   classLogoInit.style.backgroundImage = `url(./assets/logo/${locale}/logo.png)`;
 }
 

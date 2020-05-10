@@ -1,5 +1,5 @@
 body {
-  width: 400px;
+  width: 350px;
   overflow-x: hidden;
 }
 
@@ -58,36 +58,36 @@ body {
   box-shadow: #EB676E;
 }
 
-.search-input:focus{
+.search-input:focus {
   box-shadow: #8AB19F;
 }
 
-.badge-red{
+.badge-red {
   background-color: #EB676E;
   color: white;
 }
 
-.badge-red:hover{
+.badge-red:hover {
   color: #DCDCDC;
 }
 
-.badge-green{
+.badge-green {
   background-color: #8AB19F;
   color: white;
 }
 
-.badge-green:hover{
+.badge-green:hover {
   color: #DCDCDC;
 }
 
-.oval {
+.input-oval {
   position: relative;
   border-radius: 20px;
   font-weight: bold;
   height: 40px;
 }
 
-.oval-flat {
+.btn-oval {
   position: relative;
   border-radius: 20px;
   font-weight: bold;
@@ -118,26 +118,16 @@ body {
   margin-bottom: 50%;
 }
 
-.star {
-  font-size: 25px;
-  color: #8AB19F;
-  cursor: pointer;
-}
-
 .card-footer-white {
   background-color: white;
+  border-top: 0;
 }
 
 .logo-init {
   position: relative;
-  height: 400px;
+  height: 325px;
   background-image: url(../logo/en/logo.png);
-  background-size: 80%;
+  background-size: 75%;
   background-position: bottom;
   background-repeat: no-repeat;
-}
-
-.footer-info {
-  color: black;
-  background-color: #EFD473;
 }

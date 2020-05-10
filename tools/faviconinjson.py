@@ -2,6 +2,9 @@ import json
 import os
 from os import walk
 
+LANGUE = 'en'
+
+
 def list_files(folder: str) -> list:
     f = []
     for (dir_path, dir_names, file_names) in walk(folder):
@@ -13,16 +16,20 @@ def list_files(folder: str) -> list:
         files_in_folder.append(files)
     return files_in_folder
 
+
 def file_exist(address: str) -> bool:
     if os.path.exists(address):
         return True
     else:
         return False
 
+
 list_images = list_files('../common/thumbnail/JPEG/')
 
-with open('../common/db.json', 'r', encoding='utf-8') as f:
+
+with open(f'../common/db_{LANGUE}.json', 'r', encoding='utf-8') as f:
     list_site = json.load(f)
+
 
 data = []
 for site in list_site:
@@ -34,5 +41,6 @@ for site in list_site:
         site['thumbnail'] = 'none.jpg'
         data.append(site)
 
-with open('../common/db_thumbnail.json', 'w', encoding='utf-8') as f:
+
+with open(f'../src/firefox/json/db_{LANGUE}.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False)
