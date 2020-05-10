@@ -8,52 +8,58 @@ Uma lista com curadoria de recursos de design gratuito e ui para desenvolvedores
 </p>
   
 ## Categorias
- - Imagens
- - Videos
- - Ferramentas
- - Projeto
- - Freebies
- - IDEs
- - Front-end
- - Icones
- - IDE em Nuvem
- - Linguagem
- - Guia de Estilos
- - Ddesafios
- - Network
- - Estudos
- - Hospedagem
- - Pentest
- - Canais
- - Business
- - Fonts
- - Imagens Vetoriais
- - Frameworks
- - UI
- - React
- - Vue
- - Angular
- - Svelte
-  
-## Extensão para Firefox
-Rápida, OffLine e direta.
-  
-<p align="center">
-  <img src="./docs/imgs/DR4Dev.gif">
-</p>
-<p align="center">
-  <img src="./docs/imgs/DR4Dev_main.gif">
-</p>
+
+- Imagens
+- Videos
+- Ferramentas
+- Projeto
+- Freebies
+- IDEs
+- Front-end
+- Icones
+- IDE em Nuvem
+- Linguagem
+- Guia de Estilos
+- Ddesafios
+- Network
+- Estudos
+- Hospedagem
+- Pentest
+- Canais
+- Business
+- Fonts
+- Imagens Vetoriais
+- Frameworks
+- UI
+- React
+- Vue
+- Angular
+- Svelte
 
 ## Extensão para Firefox
 
 Rápida, OffLine e direta.
 
+[Firefox](https://github.com/ddauriol/DR4Dev/tree/master/dist)
+
 <p align="center">
-  <img src="./docs/imgs/DR4Dev.gif">
+  <img src="./docs/imgs/DR4Dev_firefox.gif">
 </p>
 <p align="center">
   <img src="./docs/imgs/DR4Dev_main.gif">
+</p>
+
+## Extensão para Chrome / Opera
+
+Rápida, OffLine e direta.
+
+[Chrome](https://github.com/ddauriol/DR4Dev/tree/master/dist)
+
+<p align="center">
+  <img src="./docs/imgs/DR4Dev_chrome.gif">
+</p>
+<p align="center">
+  <img src="./docs/imgs/DR4Dev_chrome_main.gif">
 </p>
 
 ## Por Fazer:
