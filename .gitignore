@@ -3,3 +3,4 @@ common/
 .vscode/
 .pytest_cache/
 node_modules
+__pycache__
