@@ -1,76 +1,54 @@
-# ![DRDev](./docs/imgs/Icon-64.png) DR4Dev - Recursos de projeto para desenvolvedores
-
-Os recursos de design para desenvolvedores são uma seleção de mais de 400 sites para facilitar os desenvolvedores.
-Uma lista com curadoria de recursos de design gratuito e ui para desenvolvedores, incluindo fotos de ações, modelos, frameworks, Kits de UI, ferramentas online e muito mais.
-
 <p align="center">
-  <img width="314" height="343" src="./docs/imgs/pt-br.png">
+  <img src="./docs/imgs/hero.jpg" width="100%">
 </p>
   
-## Categorias
+#### O projeto seguirá inicialmente o seguinte cronograma:
+ - [ ] Apresentação do Projeto.
+ - [ ] Escolha do lay-out e cores da extenção.
+ - [ ] Criação da API ( Python + FastAPI), conforme esquema pré definido do DB (MongoDB).
+ - [ ] Desenvolvimento das funcionalidades para consumo da API utilizando JS.
+ - [ ] Desenvolvimento do Front-End (exportação dos protótipos, criação dos estilos e implementação com HTML, CSS e JS).
+ - [ ] Ajustes nos manifestos para utilização em Firefox, Chrome e Opera.
+ - [ ] Publicar Beta e posteriormente submeter extensão.
+  
+#### Este projeto é aberto a contribuição da comunidade, além de ter seu código 100% disponível para uso.
+Veja alguns streans que já apoiam o projeto:
+ - [ ] CSOrlandi (Claudio Orlandi)
+ - [ ] ReisDev
+ - [ ] XDida
+ - [ ] SpaceDevs (Marcus Pereira)
+ - [ ] pachicodes
+ - [ ] levxyca
 
-- Imagens
-- Videos
-- Ferramentas
-- Projeto
-- Freebies
-- IDEs
-- Front-end
-- Icones
-- IDE em Nuvem
-- Linguagem
-- Guia de Estilos
-- Ddesafios
-- Network
-- Estudos
-- Hospedagem
-- Pentest
-- Canais
-- Business
-- Fonts
-- Imagens Vetoriais
-- Frameworks
-- UI
-- React
-- Vue
-- Angular
-- Svelte
 
-## Extensão para Firefox
+#### Caso gostaria de ver seu Streaming favorito indicando algumas ferramentas que utilizam, fala com ele sobre o projeto, ele basicamente terá o trabalho de indicar a ferramenta e autorizar a listagem do seu canal da extensão.
 
-Rápida, OffLine e direta.
-
-[Firefox](https://github.com/ddauriol/DR4Dev/tree/master/dist)
-
-<p align="center">
-  <img src="./docs/imgs/DR4Dev_firefox.gif">
+*Atualmente, o bando de dados possui mais de 400 sites distribuídos nas seguintes categorias:*
+```
+Imagens, Videos, Ferramentas, Projeto, Freebies, IDEs, Front-end, Icones, IDE em Nuvem, Linguagem, Guia de Estilos, Ddesafios, Network, Estudos, Hospedagem, Pentest, Canais, Business, Fonts, Imagens Vetoriais, Frameworks, UI, React, Vue, Angular, Svelte
+```
+  
+Já temos uma “issue” aberta para criar novas categorias e aumentar o banco de dados inicial.
+  
+*Participe das lives de desenvolvimento, durante as mesmas, um novo Logo será escolhido, assim como o nome oficial do projeto.*
+  
+#### Abaixo as teles previas do novo visual da extensão, assim vídeos da antiga extensão:
+<p align="left">
+  <img src="./docs/imgs/Proposta-01.jpg" width="50%">
 </p>
-<p align="center">
-  <img src="./docs/imgs/DR4Dev_main.gif">
+  
+<p align="left">
+  <img src="./docs/imgs/Proposta-02.jpg"  width="50%">
 </p>
 
-## Extensão para Chrome / Opera
-
-Rápida, OffLine e direta.
-
-[Chrome](https://github.com/ddauriol/DR4Dev/tree/master/dist)
-
-<p align="center">
-  <img src="./docs/imgs/DR4Dev_chrome.gif">
+___
+  
+<p align="left">
+  <img src="./docs/imgs/DR4Dev_main.gif"  width="50%">
 </p>
-<p align="center">
-  <img src="./docs/imgs/DR4Dev_chrome_main.gif">
-</p>
-
-## Por Fazer:
-
-- [x] Extensão para Chrome
-- [ ] Api
-- [ ] Mais categorias
-- [ ] Inserir sistema de favoritos
-
-### Inspiração
-
+  
+  
+#### Este projeto foi inspirado no antigo DR4Dev e nos repositórios abaixo.
 [OfficialMarinho/Links-uteis](https://github.com/OfficialMarinho/Links-uteis)
-
 [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+
