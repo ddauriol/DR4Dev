@@ -34,17 +34,17 @@ Já temos uma “issue” aberta para criar novas categorias e aumentar o banco 
   
 #### Abaixo as teles previas do novo visual da extensão, assim vídeos da antiga extensão:
 <p align="left">
-  <img src="./docs/imgs/Proposta-01.jpg" width="50%">
+  <img src="./docs/imgs/Proposta-01.jpg" width="75%">
 </p>
   
 <p align="left">
-  <img src="./docs/imgs/Proposta-02.jpg"  width="50%">
+  <img src="./docs/imgs/Proposta-02.jpg"  width="75%">
 </p>
 
 ___
   
 <p align="left">
-  <img src="./docs/imgs/DR4Dev_main.gif"  width="50%">
+  <img src="./docs/imgs/DR4Dev_main.gif"  width="75%">
 </p>
   
   
