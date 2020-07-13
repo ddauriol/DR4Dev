@@ -20,17 +20,28 @@ Veja alguns streans que já apoiam o projeto:
  - [ ] pachicodes
  - [ ] levxyca
 
-
 #### Caso gostaria de ver seu Streaming favorito indicando algumas ferramentas que utilizam, fala com ele sobre o projeto, ele basicamente terá o trabalho de indicar a ferramenta e autorizar a listagem do seu canal da extensão.
 
-*Atualmente, o bando de dados possui mais de 400 sites distribuídos nas seguintes categorias:*
+_Atualmente, o bando de dados possui mais de 400 sites distribuídos nas seguintes categorias:_
+
 ```
 Imagens, Videos, Ferramentas, Projeto, Freebies, IDEs, Front-end, Icones, IDE em Nuvem, Linguagem, Guia de Estilos, Ddesafios, Network, Estudos, Hospedagem, Pentest, Canais, Business, Fonts, Imagens Vetoriais, Frameworks, UI, React, Vue, Angular, Svelte
 ```
-  
+
 Já temos uma “issue” aberta para criar novas categorias e aumentar o banco de dados inicial.
-  
-*Participe das lives de desenvolvimento, durante as mesmas, um novo Logo será escolhido, assim como o nome oficial do projeto.*
+
+_Participe das lives de desenvolvimento, durante as mesmas, um novo Logo será escolhido, assim como o nome oficial do projeto._
+
+#### Proposta de Logos:
+
+<p align="left">
+  <img src="./docs/imgs/LogoProposto-01.png"  width="35px">
+</p>
+<p align="left">
+  <img src="./docs/imgs/LogoProposto-02.png"  width="50px">
+</p><p align="left">
+  <img src="./docs/imgs/LogoProposto-03.png"  width="50px">
+</p>
   
 #### Abaixo as teles previas do novo visual da extensão, assim vídeos da antiga extensão:
 <p align="left">
@@ -41,8 +52,8 @@ Já temos uma “issue” aberta para criar novas categorias e aumentar o banco 
   <img src="./docs/imgs/Proposta-02.jpg"  width="75%">
 </p>
 
-___
-  
+---
+
 <p align="left">
   <img src="./docs/imgs/DR4Dev_main.gif"  width="75%">
 </p>
@@ -51,4 +62,3 @@ ___
 #### Este projeto foi inspirado no antigo DR4Dev e nos repositórios abaixo.
 [OfficialMarinho/Links-uteis](https://github.com/OfficialMarinho/Links-uteis)
 [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-
