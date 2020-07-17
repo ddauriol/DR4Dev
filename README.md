@@ -3,7 +3,7 @@
 </p>
   
 #### O projeto seguirá inicialmente o seguinte cronograma:
- - [ ] Apresentação do Projeto.
+ - [x] Apresentação do Projeto.
  - [ ] Escolha do lay-out e cores da extenção.
  - [ ] Criação da API ( Python + FastAPI), conforme esquema pré definido do DB (MongoDB).
  - [ ] Desenvolvimento das funcionalidades para consumo da API utilizando JS.

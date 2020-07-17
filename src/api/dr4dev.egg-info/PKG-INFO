@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: dr4dev
+Version: 0.1.0
+Summary: API em FastApi para gestão dos dados do projeto DR4Dev
+Home-page: UNKNOWN
+Author: Douglas Maciel d'Auriol Souza
+Author-email: 44655942+ddauriol@users.noreply.github.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8,<4.0
